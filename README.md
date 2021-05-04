@@ -1,10 +1,11 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
- 
+    <a href="https://docs.google.com/spreadsheets/d/1wmlyDcTIxc3ZF2IgwCVV7tay5WxlkQpGhi32BpoN5Mc/edit?usp=sharing">
+    <img alt="FinanSheets banner" title="FinanSheets banner" src="./assets/banner.png" width="1000px">
+    </a>
 </p>
 
 <p align="center">
-    <img alt="FinanSheets banner" title="FinanSheets banner" src="./assets/banner.png" width="1000px">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
 </p>
 
 
@@ -43,7 +44,7 @@ Para conhecer melhor o processo de desenvolvimento através do framework scrum, 
 ## ⚙️ Funcionalidades
 
 - [x] Os usuários podem usar o **FinanSheets** no navegador, através do Google Sheets. Para saber mais sobre o Google Sheets, clique [aqui](https://www.google.com/intl/en-GB/sheets/about/)
-- [x] **FinanSheets** permite aos usuários cadastrar seus lançamentos conforme a data, tipo (entrada/saída) e categoria. Na aba de lançamentos temos essas seguintes funções:
+- [x] **FinanSheets** permite aos usuários cadastrar seus lançamentos conforme a data, tipo (entrada/saída) e categoria. Na aba de lançamentos temos as seguintes seguintes funções:
     - [x] O usuário poderá visualizar informações fornecidas pelo sistema como teto, ganhos e gastos totais, bem como o ganho liquido, com base nos seus laçamentos  
     - [x] O usuário poderá indicar um teto de gastos para que ele controle seus gastos.
     - [x] O usuário poderá filtrar seus laçamentos por quanto ao tempo (mês/ano) e por caracteristica (categoria/tipo).
@@ -78,6 +79,7 @@ Um passo a passo simples, você pode ir seguindo as imganes abaixo:
 <p align="center">
   <img alt="Help-02" title="FinanSheets" src="./assets/help-02.png" width="400px">
 </p>  
+
 ---
 
 ## 🛠 Tecnologias
@@ -95,6 +97,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   Markdown:  **[HackMD](https://hackmd.io/s/features)**,  **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
 -   Ícones:  **[Flaticon](https://www.flaticon.com/)**
 -   Fontes:  **[Comfortaa](https://fonts.google.com/specimen/Comfortaa?query=com)**,  **[Arial](https://www.fonts.com/font/monotype/arial?QueryFontType=Web&src=GoogleWebFonts)**
+-   Mockup: **[Freeui](https://freeui.design/the-screens-free-psd-mockup-template/)**
 
 
 ---
@@ -122,5 +125,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito com 💜 por [Vitor Alves](https://www.linkedin.com/in/vitor-alves-a089ab200/) e Carlos Henryck  👋🏽 Entre em contato!
-
----
