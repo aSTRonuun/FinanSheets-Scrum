@@ -2,9 +2,10 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
  
 </p>
-<h1 align="center">
-    <img alt="FinanSheets banner" title="FinanSheets banner" src="./assets/banner.png" />
-</h1>
+
+<p align="center">
+    <img alt="FinanSheets banner" title="FinanSheets banner" src="./assets/banner.png" width="1000px">
+</p>
 
 
 <h4 align="center"> 
@@ -70,18 +71,13 @@ Antes de começar, você precisa ter uma conta google para fazer login, depois d
 ### Fazendo a copia
 Um passo a passo simples, você pode ir seguindo as imganes abaixo:
 
-
-  <img alt="Help-01" title="FinanSheets" src="./assets/help-01.png" width="300px">
-   
+<p align="center">
+  <img alt="Help-01" title="FinanSheets" src="./assets/help-01.png" width="400px">
+</p>  
    Depois basta salvar em uma pasta em seu drive.
-
-  <img alt="Help-02" title="FinanSheets" src="./assets/help-02.png" width="300px">
-
-
-
-
-
-
+<p align="center">
+  <img alt="Help-02" title="FinanSheets" src="./assets/help-02.png" width="400px">
+</p>  
 ---
 
 ## 🛠 Tecnologias
@@ -118,6 +114,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
     
   </tr>
 </table>
+
 ---
 
 ## 📝 Licença
