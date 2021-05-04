@@ -1,5 +1,5 @@
 <p align="center">
-    <a target="_blank" href="https://docs.google.com/spreadsheets/d/1wmlyDcTIxc3ZF2IgwCVV7tay5WxlkQpGhi32BpoN5Mc/edit?usp=sharing">
+    <a  href="https://docs.google.com/spreadsheets/d/1wmlyDcTIxc3ZF2IgwCVV7tay5WxlkQpGhi32BpoN5Mc/edit?usp=sharing" target="_blank" >
     <img alt="FinanSheets banner" title="FinanSheets banner" src="./assets/banner.png" width="1000px">
     </a>
 </p>
@@ -25,16 +25,16 @@
  <a href="#-sobre-o-scrum">Sobre o Scrum</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> •
- <a href="#-como-usar-finansheets">Como Usar</a> • 
+ <a href="#-como-usar-o-finansheets">Como Usar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-contribuidores">Contribuidores</a> •
- <a href="#user-content--licença">Licença</a>
+ <a href="#licença">Licença</a>
 </p>
 
 
 ## 💻 Sobre a planilha
 
-📊 FinanSheets® - é uma forma das pessoas organizarem suas rotinas financeiras por meio de uma planilha simples, intuitiva e multifuncional. Dessa forma, ela tem o objetivo de dar suporte para o controle de gastos e custos, bem como da visibilidade do histórico financeiro do usuário, por meio de gráficos e índices percentuais conforme a sua configuração.
+📊 **[FinanSheets®](https://docs.google.com/spreadsheets/d/1wmlyDcTIxc3ZF2IgwCVV7tay5WxlkQpGhi32BpoN5Mc/edit?usp=sharing)** - é uma forma das pessoas organizarem suas rotinas financeiras por meio de uma planilha simples, intuitiva e multifuncional. Dessa forma, ela tem o objetivo de dar suporte para o controle de gastos e custos, bem como da visibilidade do histórico financeiro do usuário, por meio de gráficos e índices percentuais conforme a sua configuração.
 
 ## 📋 Sobre o projeto
 Projeto desenvolvido no curso de Engenharia de Software durante a cadeira de **Processos de Software**, o projeto tinha como finalidade aplicar conceitos de metodologias agéis no contexto de desenvolvimento de software. Ademais, usamos o framework **Scrum** como base de nosso processo de desenvolvimento, usando os conceitos fundamentais para obter o resultado de acordo com a necessidade do projeto.
@@ -63,7 +63,10 @@ Para conhecer melhor o processo de desenvolvimento através do framework scrum, 
 ---
 
 ## 🎨 Layout
-teste
+
+<p align="center">
+    <img alt="FinanSheets mockup" title="Mockup" src="./assets/mockup.png" width="700px">
+</p>
 
 
 ---
@@ -79,10 +82,22 @@ Antes de começar, você precisa ter uma conta google para fazer login, depois d
 ### Fazendo a copia
 Um passo a passo simples, você pode ir seguindo as imganes abaixo:
 
+- Acesse a planilha clicando no link a baixo:
+
+<p align="center">
+  <a href="https://docs.google.com/spreadsheets/d/1wmlyDcTIxc3ZF2IgwCVV7tay5WxlkQpGhi32BpoN5Mc/edit?usp=sharing" >
+  <h1>FinanSheets®</h1>
+  </a>
+</p>
+<ul>
+    <li>Em seguida, clique no arquivo conforme a imagem </li>
+</ul>
 <p align="center">
   <img alt="Help-01" title="FinanSheets" src="./assets/help-01.png" width="400px">
-</p>  
-   Depois basta salvar em uma pasta em seu drive.
+</p>
+<ul>
+  <li>Depois basta salvar em uma pasta em seu drive. </li>
+<ul>
 <p align="center">
   <img alt="Help-02" title="FinanSheets" src="./assets/help-02.png" width="400px">
 </p>  
@@ -104,7 +119,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   Markdown:  **[HackMD](https://hackmd.io/s/features)**,  **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
 -   Ícones:  **[Flaticon](https://www.flaticon.com/)**
 -   Fontes:  **[Comfortaa](https://fonts.google.com/specimen/Comfortaa?query=com)**,  **[Arial](https://www.fonts.com/font/monotype/arial?QueryFontType=Web&src=GoogleWebFonts)**
--   Mockup: **[Freeui](https://freeui.design/the-screens-free-psd-mockup-template/)**
+-   Mockup: **[Graphicgata](https://graphicgata.com/3d-imac-screen-mock-up/)**
 
 
 ---
