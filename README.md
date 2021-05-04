@@ -1,11 +1,18 @@
 <p align="center">
-    <a href="https://docs.google.com/spreadsheets/d/1wmlyDcTIxc3ZF2IgwCVV7tay5WxlkQpGhi32BpoN5Mc/edit?usp=sharing">
+    <a target="_blank" href="https://docs.google.com/spreadsheets/d/1wmlyDcTIxc3ZF2IgwCVV7tay5WxlkQpGhi32BpoN5Mc/edit?usp=sharing">
     <img alt="FinanSheets banner" title="FinanSheets banner" src="./assets/banner.png" width="1000px">
     </a>
 </p>
 
+<br>
+</br>
+
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/aSTRonuun/FinanSheets-Scrum?color=%2387CEEB">
+  <img alt="GitHub" src="https://img.shields.io/github/license/aSTRonuun/UX-Ui-HiLife?color=%09%236495ED">
+  <img alt="Github categoria" src="https://img.shields.io/badge/categoria-finan%C3%A7as-%234682B4">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/aSTRonuun/FinanSheets-Scrum?color=%09%234169E1">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/aSTRonuun/FinanSheets-Scrum?style=social">
 </p>
 
 
@@ -108,9 +115,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/CarlosHenryck"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/58481753?v=4s=400&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="100px;" alt=""/><br /><sub><b>Carlos Henryck</b></sub></a> <br> <sub>Scrum time</sub><br/>
-    <td align="center"><a href="https://github.com/aSTRonuun"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/60976622?v=4s=460&u=806503605676192b5d0c363e4490e13d8127ed64&v=4" width="100px;" alt=""/><br /><sub><b>Vitor Alves</b></sub></a><br> <sub>Scrum time</sub><br/>
-    <td align="center"><a href="https://github.com/davirxavier"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47609623?v=4" width="100px;" alt=""/><br /><sub><b>Davi Xavier</b></sub></a><br> <sub>Product Owner</sub><br />
+    <td align="center"><a href="https://github.com/CarlosHenryck" target="_blank" ><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/58481753?v=4s=400&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="100px;" alt=""/><br /><sub><b>Carlos Henryck</b></sub></a> <br> <sub>Scrum time</sub><br/>
+    <td align="center"><a href="https://github.com/aSTRonuun" target="_blank" ><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/60976622?v=4s=460&u=806503605676192b5d0c363e4490e13d8127ed64&v=4" width="100px;" alt=""/><br /><sub><b>Vitor Alves</b></sub></a><br> <sub>Scrum time</sub><br/>
+    <td align="center"><a href="https://github.com/davirxavier" target="_blank" ><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47609623?v=4" width="100px;" alt=""/><br /><sub><b>Davi Xavier</b></sub></a><br> <sub>Product Owner</sub><br />
 </td>
     <td align="center"><img style="border-radius: 50%;" src="https://ca.slack-edge.com/T01FA3P9Z1U-U01FLA6F2CV-dedb413afcd0-512" width="100px;" alt=""/><br /><sub><b>João Elias</b></sub><br> <sub>Scrum master</sub><br />
 </td>
