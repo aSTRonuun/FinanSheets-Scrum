@@ -94,7 +94,7 @@ Um passo a passo simples, você pode ir seguindo as imganes abaixo:
 </p>
 <ul>
   <li>Depois basta salvar em uma pasta em seu drive. </li>
-<ul>
+</ul>
 <p align="center">
   <img alt="Help-02" title="FinanSheets" src="./assets/help-02.png" width="400px">
 </p>  
