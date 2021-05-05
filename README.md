@@ -34,7 +34,7 @@
 
 ## 💻 Sobre a planilha
 
-📊 **[FinanSheets®](https://docs.google.com/spreadsheets/d/1wmlyDcTIxc3ZF2IgwCVV7tay5WxlkQpGhi32BpoN5Mc/edit?usp=sharing)** - é uma forma das pessoas organizarem suas rotinas financeiras por meio de uma planilha simples, intuitiva e multifuncional. Dessa forma, ela tem o objetivo de dar suporte para o controle de gastos e custos, bem como da visibilidade do histórico financeiro do usuário, por meio de gráficos e índices percentuais conforme a sua configuração.
+📊 **[FinanSheets®]("https://docs.google.com/spreadsheets/d/1wmlyDcTIxc3ZF2IgwCVV7tay5WxlkQpGhi32BpoN5Mc/edit?usp=sharing")** - é uma forma das pessoas organizarem suas rotinas financeiras por meio de uma planilha simples, intuitiva e multifuncional. Dessa forma, ela tem o objetivo de dar suporte para o controle de gastos e custos, bem como da visibilidade do histórico financeiro do usuário, por meio de gráficos e índices percentuais conforme a sua configuração.
 
 ## 📋 Sobre o projeto
 Projeto desenvolvido no curso de Engenharia de Software durante a cadeira de **Processos de Software**, o projeto tinha como finalidade aplicar conceitos de metodologias agéis no contexto de desenvolvimento de software. Ademais, usamos o framework **Scrum** como base de nosso processo de desenvolvimento, usando os conceitos fundamentais para obter o resultado de acordo com a necessidade do projeto.
