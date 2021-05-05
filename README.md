@@ -84,11 +84,8 @@ Um passo a passo simples, você pode ir seguindo as imganes abaixo:
 
 - Acesse a planilha clicando no link a baixo:
 
-<p align="center">
-  <a href="https://docs.google.com/spreadsheets/d/1wmlyDcTIxc3ZF2IgwCVV7tay5WxlkQpGhi32BpoN5Mc/edit?usp=sharing" >
-  <h1>FinanSheets®</h1>
-  </a>
-</p>
+# [FinanSheets®](https://docs.google.com/spreadsheets/d/1wmlyDcTIxc3ZF2IgwCVV7tay5WxlkQpGhi32BpoN5Mc/edit?usp=sharing)
+
 <ul>
     <li>Em seguida, clique no arquivo conforme a imagem </li>
 </ul>
